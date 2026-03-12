@@ -9,3 +9,5 @@ nowgames.io
 woogames.io
 
 ohgames.io
+
+bloxgames.io

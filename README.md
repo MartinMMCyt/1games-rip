@@ -1,4 +1,4 @@
-# 1games' main domains
+# 1games' domains
 
 1games.io (where they host all their games)
 
